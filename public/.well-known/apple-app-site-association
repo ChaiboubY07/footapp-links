@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.chyyy777.footapp",
+        "paths": [ "/reset/*" ]
+      }
+    ]
+  }
+}
