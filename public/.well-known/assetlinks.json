@@ -2,10 +2,11 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.benfares.footapp",
+    "package_name": "com.chyyy777.footapp",
     "sha256_cert_fingerprints": [
       "7E:AA:8B:79:3C:8B:7B:26:18:40:34:D6:73:F5:FB:7F:E8:2C:86:E4"
     ]
   }
 }]
+
 
